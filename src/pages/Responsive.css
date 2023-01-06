@@ -1,0 +1,67 @@
+.responsive{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    line-height: 2em;
+}
+
+.theProblems{
+    display: flex;
+    justify-content: space-around;
+}
+
+.rButtonContainer1{
+    display: flex;
+    width: 20vw;
+    height: 10vw;
+    border: 3px;
+    background-color: #F09644;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+}
+.rButtonContainer2{
+    display: flex;
+    width: 20vw;
+    height: 10vw;
+    border: 3px;
+    background-color:#F7D7BF;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.rButton{
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 25px;
+    transition: all .2s ease-in-out;
+}
+.webButtons{
+    display: flex;
+    justify-content: space-around;
+}
+.sketches{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sketch{
+    width:35vw;
+    height: auto;
+    transition: all .2s ease-in-out;
+}
+.sketch2{
+    height: 40vw;
+    width: auto;
+    transition: all .2s ease-in-out;
+}
+
+.rButton:hover{
+    transform: scale(1.05);
+}

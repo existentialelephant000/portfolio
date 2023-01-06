@@ -1,0 +1,20 @@
+.ab{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    line-height: 2em;
+}
+.triple{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.heatmap{
+    max-width: 35vw;
+    margin: 2vw;
+}
+.maps{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

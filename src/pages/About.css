@@ -1,0 +1,20 @@
+.about{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    line-height: 2em;
+}
+.main{
+    padding-top: 6vw;
+    display: inline-block;
+}
+.text2{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 8vw;
+    max-width: 40vw;
+}
+.photo2{
+    max-width: 30vw;
+
+}
