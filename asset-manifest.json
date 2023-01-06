@@ -1,14 +1,35 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.99eb4ba6.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio/static/css/main.dc1755c5.css",
+    "main.js": "/portfolio/static/js/main.ab78fe63.js",
+    "static/media/me2.jpg": "/portfolio/static/media/me2.f7d2adaa4695f9688d82.jpg",
+    "static/media/ab3.png": "/portfolio/static/media/ab3.c7f9fb738884951a3d74.png",
+    "static/media/chatscreen.png": "/portfolio/static/media/chatscreen.e2d1719e11f08ff6ebf3.png",
+    "static/media/ab1.png": "/portfolio/static/media/ab1.ec4f7726b946e6fc70bd.png",
+    "static/media/userTesting1.png": "/portfolio/static/media/userTesting1.0cc31b06f5beb930566e.png",
+    "static/media/ab4.png": "/portfolio/static/media/ab4.4ced67f25d7c935aa208.png",
+    "static/media/ab2.png": "/portfolio/static/media/ab2.3f35e6e37ca7e201b518.png",
+    "static/media/userTesting2.png": "/portfolio/static/media/userTesting2.066c565fe14a0feedede.png",
+    "static/media/lockscreen.png": "/portfolio/static/media/lockscreen.dde3f152cfa2c91831fc.png",
+    "static/media/ozoneFigma.png": "/portfolio/static/media/ozoneFigma.7ac02a70e94dd08e36c6.png",
+    "static/media/responsive.png": "/portfolio/static/media/responsive.aa2138f90cb216c7aeef.png",
+    "static/media/ab.png": "/portfolio/static/media/ab.55856559dc592d6a2452.png",
+    "static/media/wavey.png": "/portfolio/static/media/wavey.f109b72ab04d01d88fb2.png",
+    "static/media/ozone.png": "/portfolio/static/media/ozone.7aa2a99b6172f8cc3531.png",
+    "static/media/responsive1.jpg": "/portfolio/static/media/responsive1.4c632874f1b11ff6942a.jpg",
+    "static/media/me1.JPG": "/portfolio/static/media/me1.9ce160872e6bdceb2427.JPG",
+    "static/media/desktopHF.jpg": "/portfolio/static/media/desktopHF.6caf74f927c2e5e1eeb1.jpg",
+    "static/media/mobileLF.jpg": "/portfolio/static/media/mobileLF.76030d157a178eb6a3a8.jpg",
+    "static/media/desktopLF.png": "/portfolio/static/media/desktopLF.f2a29dcf2f20fd7cbe01.png",
+    "static/media/mobileHF.jpg": "/portfolio/static/media/mobileHF.82fbd29d362b95ef8418.jpg",
+    "static/media/visualdesign.jpg": "/portfolio/static/media/visualdesign.5b0657833472c9e27db5.jpg",
+    "static/media/search.png": "/portfolio/static/media/search.2ababbee3018d459f708.png",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.99eb4ba6.js.map": "/portfolio/static/js/main.99eb4ba6.js.map"
+    "main.dc1755c5.css.map": "/portfolio/static/css/main.dc1755c5.css.map",
+    "main.ab78fe63.js.map": "/portfolio/static/js/main.ab78fe63.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.99eb4ba6.js"
+    "static/css/main.dc1755c5.css",
+    "static/js/main.ab78fe63.js"
   ]
 }
