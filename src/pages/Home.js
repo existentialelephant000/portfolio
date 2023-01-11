@@ -10,12 +10,12 @@ import wavey from "./images/wavey.png"
 export function Home() {
     return (
         <>
-        <div class="home" style={{position: 'absolute', backgroundRepeat:"no-repeat", backgroundImage:`url(${wavey})`}}>
+        <div class="home" style={{background:"cover", backgroundRepeat:"no-repeat", backgroundImage:`url(${wavey})`}}>
+            <br/>
             <div class="welcome" >
                 <div style={{display: 'inline-block'}}>
                     <h1 class="welcomeTitle">welcome</h1>
                     <p class="intro"> i am a student @BrownU studying computer science with a special interest in UI and UX design</p>
-                    <br/>
                     <br/>
                     <br/>
                     <br/>    
