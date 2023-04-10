@@ -15,7 +15,7 @@ export function Home() {
             <div class="welcome" >
                 <div style={{display: 'inline-block'}}>
                     <h1 class="welcomeTitle">welcome</h1>
-                    <p class="intro"> i am a student @BrownU studying computer science with a special interest in UI and UX design</p>
+                    <p class="intro"> i am a student @BrownU studying computer science with a special interest in Machine Learning</p>
                     <br/>
                     <br/>
                     <br/>    
